@@ -12,6 +12,7 @@ export default function Home() {
       <div>
         <h1 className={styles.title}>Homepage</h1>
         <p className={styles.text}>
+          Trying something
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi
           impedit suscipit architecto, odio inventore nostrum non neque dicta.
           Quam magni accusantium culpa distinctio tempore iure accusamus,
